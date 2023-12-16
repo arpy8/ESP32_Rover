@@ -1,5 +1,7 @@
 # [ESP32 Bluetooth Rover](https://www.instagram.com/p/C054P9ZCS_K/)
 
+![banner](assets/banner.png)
+
 This repository contains Arduino sketches for a Bluetooth-controlled car using an ESP32 board, a motor driver module, and an ESP32-CAM module for additional functionality. The car can be wirelessly controlled via Bluetooth communication, allowing users to send commands from a Bluetooth-enabled device. The ESP32-CAM module adds the capability to stream video.
 
 ## Hardware Requirements
